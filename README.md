@@ -24,5 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell"  alt="PowerShell" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JonMS95)](https://git.io/streak-stats)
+<!-- ### :fire: My Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?JonMS95 =&theme=radical) -->
