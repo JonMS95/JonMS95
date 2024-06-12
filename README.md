@@ -24,5 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell"  alt="PowerShell" width="40" height="40"/>
 </div>
 
-<!-- ### :fire: My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?JonMS95 =&theme=radical) -->
+<a href="https://github.com/JonMS95">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonMS95&theme=transparent&include_all_commits=true&rank_icon=percentile" />
+</a>
+<a href="https://github.com/JonMS95">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonMS95&layout=compact&langs_count=20" />
+</a>
